@@ -12,9 +12,9 @@ You can view the live map here:
 https://yujiuchi.github.io/disaster-map/disaster.html
 
 ## 注意事項 / Disclaimer
-本リポジトリの地図は、災害時に入力された情報を元に作成しています。
+本リポジトリの地図は、災害時に入力された情報を元に作成しています。  
 This map is based on information entered during disaster situations.  
-内容の正確性・最新性について保証するものではありません。
+内容の正確性・最新性について保証するものではありません。  
 It does not guarantee accuracy or timeliness of the information.  
 
 
