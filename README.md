@@ -15,3 +15,13 @@ https://yujiuchi.github.io/disaster-map/disaster.html
 - python 
 - FormBridge + kintone
 - GitHub Pages
+
+```mermaid
+
+flowchart TD
+smartphone-->|take pictures and upload|fv
+fv(FormBridge)-->|auto|kin(kintone)
+kin-->|Python + Rest API|folium
+folium-->|Python + PyGithub|Github-Pages
+
+```
