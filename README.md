@@ -32,12 +32,13 @@ It does not guarantee accuracy or timeliness of the information.
 ```mermaid
 
 flowchart TD
-sm1(smartphone)-->|take pictures and upload|fv1
-fv1(FormBridge)-->|auto|kin1(kintone)
+damaged{{damaged area}}-->|smartphone|fv1
+fv1(FormBridge)-->|auto|kin1[(kintone)]
 kin1-->|Python + Rest API|folium
-folium-->|Python + PyGithub|git(Github-Pages)
-sm2(smartphone)-->|input data|fv2
-fv2(FormBridge)-->|auto|kin2(kintone)
+folium-->|Python + PyGithub|git[(Github Pages)]
+
+shelter{{shelter}}-->|pc/smartphone|fv2
+fv2(FormBridge)-->|auto|kin2[(kintone)]
 kin2-->|Python + Rest API|pandas
 pandas-->|Python + PyGithub|git
 
