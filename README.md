@@ -8,7 +8,7 @@ Folium を用いて生成した HTML 地図を GitHub Pages で公開してい�
 The HTML map generated using Folium is published via GitHub Pages.  
 
 ## ダッシュボード /Dashboard
-被災箇所を左パネルに、地図を右パネルに表示したダッシュボードです。
+被災箇所を左パネルに、地図を右パネルに表示したダッシュボードです。  
 https://yujiuchi.github.io/disaster-map/dashboard.html
 
 ## 地図 / Live Map
