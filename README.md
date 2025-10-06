@@ -7,8 +7,15 @@ This repository is a project to visualize disaster damage locations on a map and
 Folium を用いて生成した HTML 地図を GitHub Pages で公開しています。  
 The HTML map generated using Folium is published via GitHub Pages.  
 
-## 公開中の地図 / Live Map
+## ダッシュボード /Dashboard
+被災箇所を左パネルに、地図を右パネルに表示したダッシュボードです。
+https://yujiuchi.github.io/disaster-map/dashboard.html
+
+## 地図 / Live Map
 https://yujiuchi.github.io/disaster-map/disaster.html
+
+## 被災箇所 / Number of Damages
+https://yujiuchi.github.io/disaster-map/number_of_damage.html
 
 ## 避難者数 / Number of Evacuees
 避難所ごとの避難者数を CSV および HTML 表形式で公開しています。  
