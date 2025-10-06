@@ -15,7 +15,7 @@ https://yujiuchi.github.io/disaster-map/dashboard.html
 https://yujiuchi.github.io/disaster-map/disaster.html
 
 ## 被災箇所 / Number of Damages
-https://yujiuchi.github.io/disaster-map/number_of_damage.html
+https://yujiuchi.github.io/disaster-map/number_of_damages.html
 
 ## 避難者数 / Number of Evacuees
 避難所ごとの避難者数を CSV および HTML 表形式で公開しています。  
